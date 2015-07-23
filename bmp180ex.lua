@@ -1,4 +1,4 @@
--- the code for BMP180 is inspired from
+-- the code for BMP180 is inspired (no shame!) from
 -- https://github.com/javieryanez/nodemcu-modules/tree/master/bmp180
 
 OSS = 1 -- oversampling setting (0-3)
